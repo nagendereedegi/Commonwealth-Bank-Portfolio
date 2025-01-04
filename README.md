@@ -6,5 +6,6 @@ I just completed Commonwealth Bank's Introduction to Cybersecurity on Forage. In
     Demonstrated the ability to respond effectively to cybersecurity incidents, including notifying relevant teams, collecting information, containing and stopping attacks, and aiding in recovery efforts.
     Enhanced security awareness expertise by designing infographics promoting best practices for secure password management, following Australian Cybersecurity Centre advice.
     Acquired practical experience in penetration testing, assessing the security of web applications, identifying vulnerabilities, and providing recommendations for remediation to bolster cybersecurity defenses.
+![Commonwealth bank](https://github.com/user-attachments/assets/45e772ca-7182-4baa-a856-7baf82c6e568)
 
 Check out the simulation here: https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl
